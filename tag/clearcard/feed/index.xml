@@ -12,21 +12,13 @@
 	<atom:link href="http://localhost/myproject/wordpress/tag/clearcard/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nochin204.github.io/sakura</link>
 	<description>Kiến tạo phong cách </description>
-	<lastBuildDate>Wed, 15 Sep 2021 05:29:47 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Sep 2021 06:20:12 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-
-<image>
-	<url>https://nochin204.github.io/sakura/wp-content/uploads/2021/09/seweew.jpg</url>
-	<title>clearcard &#8211; Sakura</title>
-	<link>https://nochin204.github.io/sakura</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
 	<item>
 		<title>Sakura &#8211; Thủ Lĩnh Thẻ Bài</title>
 		<link>https://nochin204.github.io/sakura/sakura-thu-linh-the-bai/</link>
