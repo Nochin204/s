@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Trangochien &#8211; Sakura</title>
+	<atom:link href="http://localhost/myproject/wordpress/author/trangochien/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nochin204.github.io/sakura</link>
+	<description>Kiến tạo phong cách </description>
+	<lastBuildDate>Wed, 15 Sep 2021 05:29:47 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://nochin204.github.io/sakura/wp-content/uploads/2021/09/seweew.jpg</url>
+	<title>Trangochien &#8211; Sakura</title>
+	<link>https://nochin204.github.io/sakura</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sakura &#8211; Thủ Lĩnh Thẻ Bài</title>
+		<link>https://nochin204.github.io/sakura/sakura-thu-linh-the-bai/</link>
+					<comments>https://nochin204.github.io/sakura/sakura-thu-linh-the-bai/#respond</comments>
+		
+		<dc:creator><![CDATA[Trangochien]]></dc:creator>
+		<pubDate>Tue, 31 Aug 2021 04:02:33 +0000</pubDate>
+				<category><![CDATA[Phim]]></category>
+		<category><![CDATA[clearcard]]></category>
+		<category><![CDATA[sakura]]></category>
+		<guid isPermaLink="false">https://nochin204.github.io/sakura/?p=144</guid>
+
+					<description><![CDATA[Cardcaptor Sakura được biết đến với nhan đề Thủ lĩnh thẻ bài. Câu chuyện xoay quanh Kinomoto Sakura, một học sinh tiểu học tình cờ phát hiện ra tiềm năng phép thuật của mình sau khi vô tình mở quyển sách chứa một bộ thẻ bài ma thuật bị niêm phong đã nhiều năm.]]></description>
+		
+					<wfw:commentRss>https://nochin204.github.io/sakura/sakura-thu-linh-the-bai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Khi muốn khóc, tôi đeo mặt nạ mèo</title>
+		<link>https://nochin204.github.io/sakura/khi-muon-khoc-toi-deo-mat-na-meo/</link>
+					<comments>https://nochin204.github.io/sakura/khi-muon-khoc-toi-deo-mat-na-meo/#respond</comments>
+		
+		<dc:creator><![CDATA[Trangochien]]></dc:creator>
+		<pubDate>Tue, 24 Aug 2021 12:43:30 +0000</pubDate>
+				<category><![CDATA[Phim]]></category>
+		<category><![CDATA[anime]]></category>
+		<category><![CDATA[buồn]]></category>
+		<guid isPermaLink="false">https://nochin204.github.io/sakura/?p=59</guid>
+
+					<description><![CDATA[ối cảnh ở tại thành phố Tokoname ở tỉnh Aichi. Nhân vật chính là một nữ sinh trung học năm hai lập dị tên là Miyo Sasaki, cô yêu thầm người bạn cùng lớp của mình là Kento Hinode và cố gắn thổ lộ tình cảm của mình, nhưng không có kết quả. Giải pháp của cô: biến thành mèo.]]></description>
+		
+					<wfw:commentRss>https://nochin204.github.io/sakura/khi-muon-khoc-toi-deo-mat-na-meo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TOP 20 BỘ PHIM ANIME HAY NHẤT LỊCH SỬ PHIM NHẬT BẢN</title>
+		<link>https://nochin204.github.io/sakura/blackpink-ket-hop-cung-selena-gomez/</link>
+					<comments>https://nochin204.github.io/sakura/blackpink-ket-hop-cung-selena-gomez/#respond</comments>
+		
+		<dc:creator><![CDATA[Trangochien]]></dc:creator>
+		<pubDate>Tue, 24 Aug 2021 03:42:26 +0000</pubDate>
+				<category><![CDATA[Nghệ Sĩ]]></category>
+		<category><![CDATA[BlackPink]]></category>
+		<category><![CDATA[IceCream]]></category>
+		<category><![CDATA[SelenaGomez]]></category>
+		<guid isPermaLink="false">https://nochin204.github.io/sakura/?p=17</guid>
+
+					<description><![CDATA[Không xem hết 20 bộ phim anime này sẽ phí cả đời. Bài viết tổng hợp các bộ phim anime hay nhất và vẫn không ngừng hết hot dù đã công chiếu cả chục năm nay.]]></description>
+		
+					<wfw:commentRss>https://nochin204.github.io/sakura/blackpink-ket-hop-cung-selena-gomez/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
